@@ -34,7 +34,7 @@ with st.sidebar:
     st.write("**Framework:** TensorFlow + Streamlit")
     st.markdown("---")
     st.write("👨‍💻 Developed by: **Your Name**")
-    st.write("📌 GitHub: https://github.com/yourusername")
+    st.write("📌 GitHub: https://github.com/DhruvaKR/ai-digit-recognizer")
 
 # Tabs
 tab1, tab2 = st.tabs(["✏ Draw Digit", "📤 Upload Image"])
@@ -110,3 +110,4 @@ with tab2:
 
 st.markdown("---")
 st.markdown("<p style='text-align: center;'>Built with ❤️ using Deep Learning & Streamlit</p>", unsafe_allow_html=True)
+
